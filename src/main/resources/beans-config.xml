@@ -1,0 +1,1 @@
+<bean id="person" class="com.example.service.PersonDbServiceImpl"/>
